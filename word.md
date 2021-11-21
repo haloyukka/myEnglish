@@ -55,3 +55,11 @@ move with catlike `agility`
 関連(系列)会社  
 【形】提携している、関連のある、支部の  
 ----
+`bookkeeping` for e-commerce businesses   
+eコマースビジネス向けの簿記  
+【名】簿記  
+----
+`exotic` birds   
+外来種の鳥  
+【形】外来の  
+----
