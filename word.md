@@ -1,3 +1,41 @@
+Show me `pencil in` May 26 as possible product launch day  
+新商品発売日を借りで5/26としましょうか  
+【熟】仮押さえ  
+pencil in → 鉛筆で書き込む → 鉛筆だから後で消せる → 仮押さえ
+----
+itinerary  
+インテニラリィ  
+【名】日程表  
+----
+You `are ahead of schedule`    
+【熟】予定より早くすすむ  
+----
+fall back on    
+【動】～に頼る  
+----
+joint guarantor    
+【名】連帯保証人  
+----
+cosigner   
+【名】共同署名者   
+----
+debt-to-income ratio   
+debt : 借金  
+【動】返済負担率  
+年間返済額 / 年収 * 100  
+----
+struggle to  
+各地  
+【動】～するのに苦しむ  
+----
+corner `lot`   
+各地  
+【名】物件  
+----
+on the positive tone   
+ポジティブな調子で  
+【-】---  
+----
 Some dreadful `calamity` will happne.  
 おそるべき禍（わざわ）いが起こるのでしょう。  
 【名】不幸、災難
