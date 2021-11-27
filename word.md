@@ -1,3 +1,8 @@
+`mayoral` elections  
+市長選挙  
+【形】市長の  
+----
+
 Show me `pencil in` May 26 as possible product launch day  
 新商品発売日を借りで5/26としましょうか  
 【熟】仮押さえ  
