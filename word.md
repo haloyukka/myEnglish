@@ -1,3 +1,7 @@
+We `yearn` for the sky.  
+僕らは大空に憧れる  
+【動】憧れる  
+----
 The history is summed up `concisely` in this book.  
 歴史はこの本に簡潔に要約されている  
 【副】簡潔に  
