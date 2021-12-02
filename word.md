@@ -1,3 +1,7 @@
+The `detergent` discolored my shirts.  
+洗剤で、私のシャツは変色した。  
+【名】洗剤  
+----
 We `yearn` for the sky.  
 僕らは大空に憧れる  
 【動】憧れる  
