@@ -1,4 +1,7 @@
-The `detergent` discolored my shirts.  
+`verbose` view  
+詳細表示  
+【形】詳細な、冗長な  
+----The `detergent` discolored my shirts.  
 洗剤で、私のシャツは変色した。  
 【名】洗剤  
 ----
