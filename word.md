@@ -1,7 +1,12 @@
+in a peaceable and `orderly` manner  
+平和を好み秩序のあるさまの  
+【形】整頓された、規則正しい  
+----
 `verbose` view  
 詳細表示  
 【形】詳細な、冗長な  
-----The `detergent` discolored my shirts.  
+----
+The `detergent` discolored my shirts.  
 洗剤で、私のシャツは変色した。  
 【名】洗剤  
 ----
