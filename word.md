@@ -1,3 +1,7 @@
+He `mistakenly` believed it.  
+彼はそれを誤って信じた  
+【副】誤って  
+----
 in a peaceable and `orderly` manner  
 平和を好み秩序のあるさまの  
 【形】整頓された、規則正しい  
