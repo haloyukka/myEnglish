@@ -1,3 +1,6 @@
+Your guess is as good as mine  
+わからない、しらない  
+----
 He `mistakenly` believed it.  
 彼はそれを誤って信じた  
 【副】誤って  
