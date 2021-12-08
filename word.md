@@ -1,3 +1,7 @@
+birds are `nesting` outside my window every Spring  
+鳥は毎春、私の窓の外で巣を作っている  
+【名】鳥の巣捜し
+----
 Your guess is as good as mine  
 わからない、しらない  
 ----
