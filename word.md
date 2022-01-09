@@ -1,5 +1,11 @@
-itinerary  
-【名】旅程  
+Supermarkets and convenience stores `are committed to` tackling the overpackaging challenge.  
+スーパーやコンビニは、過剰包装という困難な問題`に積極的に関わっています`。  
+
+be committed to  
+【熟語】～に積極的に関わっている  
+---
+put ~ first  
+【熟語】～を第一に考える、～を最優先する  
 ----
 birds are `nesting` outside my window every Spring  
 鳥は毎春、私の窓の外で巣を作っている  
